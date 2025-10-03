@@ -1,0 +1,7 @@
+openai-whisper
+librosa
+numpy
+pydub
+scikit-learn
+# ipykernel # Solo si usas Jupyter Notebooks y quieres incluirlo, de lo contrario, no es necesario para el script
+# speechrecognition # No se usa directamente en el código proporcionado, pero si lo consideras relevante para futuros usos, puedes incluirlo.

@@ -1,0 +1,106 @@
+TRANSCRIPCIÓN: ejemplo.mp3
+FECHA DE PROCESAMIENTO: 2025-10-06 14:23:59
+======================================================================
+
+Persona_02 (0.0s - 7.0s):
+  ¿Y de dónde eres?
+
+Persona_02 (7.0s - 14.0s):
+  De Salamanca. ¿Y tú?
+
+Persona_01 (14.0s - 18.0s):
+  También de Salamanca.
+
+Persona_01 (18.0s - 21.0s):
+  ¿Y tú?
+
+Persona_02 (21.0s - 30.0s):
+  También de Salamanca.
+
+Persona_01 (30.0s - 34.0s):
+  ¿Y bueno, tienes hermanos?
+
+Persona_02 (34.0s - 36.0s):
+  No.
+
+Persona_02 (36.0s - 42.0s):
+  Yo tampoco.
+
+Persona_01 (42.0s - 45.0s):
+  Buenas tardes, ¿qué les pongo?
+
+Persona_02 (45.0s - 48.0s):
+  Para mí, un vino tinto.
+
+Persona_01 (48.0s - 52.0s):
+  Me gusta mucho el vino. ¿Y a ti?
+
+Persona_01 (52.0s - 55.0s):
+  A mí no, no me gusta mucho.
+
+Persona_01 (55.0s - 58.0s):
+  Para mí un vaso de agua, por favor.
+
+Persona_01 (58.0s - 60.0s):
+  ¿Y para comer?
+
+Persona_01 (60.0s - 63.0s):
+  ¿Te gusta la carne?
+
+Persona_02 (63.0s - 67.0s):
+  No. No me gusta.
+
+Persona_01 (67.0s - 71.0s):
+  A mí sí. ¿Y el pescado?
+
+Persona_01 (71.0s - 73.0s):
+  Es que tengo un problema.
+
+Persona_01 (73.0s - 77.0s):
+  No me gusta cenar fuera.
+
+Persona_02 (77.0s - 81.0s):
+  ¿Y qué te gusta hacer?
+
+Persona_01 (81.0s - 85.0s):
+  Prefiero cocinar y cenar en casa.
+
+Persona_01 (85.0s - 87.0s):
+  Me gusta ir al cine.
+
+Persona_01 (87.0s - 89.0s):
+  Me gusta hacer deporte.
+
+Persona_01 (89.0s - 91.0s):
+  A mí también me gusta ir al cine.
+
+Persona_01 (91.0s - 92.0s):
+  ¿Ah, sí?
+
+Persona_01 (92.0s - 94.0s):
+  Sí. Y después me gusta beber un vino.
+
+Persona_01 (94.0s - 96.0s):
+  Y me gusta mucho hablar sobre la película.
+
+Persona_01 (96.0s - 100.0s):
+  Qué bien. Películo y vino tinto. Una noche perfecta.
+
+Persona_01 (100.0s - 104.0s):
+  El viernes voy a ir al cine a ver una película nueva.
+
+Persona_01 (104.0s - 106.0s):
+  ¿Quieres venir conmigo?
+
+Persona_01 (106.0s - 110.0s):
+  Mira, este es mi número de teléfono.
+
+Persona_01 (112.0s - 115.0s):
+  Muy bien. Y... Vale.
+
+Persona_01 (115.0s - 118.0s):
+  A mí también me gusta el cine.
+
+Persona_01 (118.0s - 121.0s):
+  ¿A qué hora quedamos?
+
